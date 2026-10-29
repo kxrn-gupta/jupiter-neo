@@ -78,7 +78,7 @@ Jupiter Neo adheres strictly to the **Taste Skill v2** anti-slop frontend standa
 
 ```bash
 # Clone the repository
-git clone https://github.com/karan5028ji/jupiter-neo.git
+git clone https://github.com/kxrn-gupta/jupiter-neo.git
 cd jupiter-neo
 
 # Install dependencies
@@ -97,5 +97,5 @@ Open [http://localhost:3005](http://localhost:3005) with your browser.
 
 ## 📄 License & Credits
 
-Built with precision by **Karan Gupta** ([Gupta Ventures](https://github.com/karan5028ji)) for the **Superteam India Design Bounty**.  
+Built with precision by **Karan Gupta** ([Gupta Ventures](https://github.com/kxrn-gupta)) for the **Superteam India Design Bounty**.  
 Licensed under the [MIT License](LICENSE).
